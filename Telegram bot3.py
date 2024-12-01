@@ -9,6 +9,7 @@ from datetime import datetime  # Buyurtma vaqtini aniqlaydi
 from aiogram.utils import keyboard
 
 TOKEN = "7761371808:AAFTvhxxzLdWTD0vtvuysu7aCKANo7OCjVk"
+DB_URL = "postgresql://postgres:GLIzifeWuYMaNZYedOzuHTSMJpOfebVq@junction.proxy.rlwy.net:49793/railway"
 channel_username = "@Zayavkalarim"
 
 bot = Bot(token=TOKEN)
